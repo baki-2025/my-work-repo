@@ -1,0 +1,23 @@
+h2{
+    text-align: center;
+}
+.item-title{
+    display: flex;
+    gap: 700px;
+}
+.logo{
+    color: darkturquoise;
+}
+.signup-btn{
+    color: chartreuse;
+    padding: 8px 12px;
+    margin: 10px;
+}
+.banner{
+    color: black;
+    text-align: center;
+    height: fit-content;
+} 
+.focus-btn{
+    color: crimson;
+}
